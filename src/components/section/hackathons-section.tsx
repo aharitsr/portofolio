@@ -25,7 +25,7 @@ export default function HackathonsSection() {
             </p>
           </div>
         </div>
-        <Timeline>
+        {/* <Timeline>
           {DATA.hackathons.map((hackathon) => (
             <TimelineItem key={hackathon.title + hackathon.dates} className="w-full flex items-start justify-between gap-10">
               <TimelineConnectItem className="flex items-start justify-center">
@@ -74,7 +74,7 @@ export default function HackathonsSection() {
               </div>
             </TimelineItem>
           ))}
-        </Timeline>
+        </Timeline> */}
       </div>
     </section>
   );
