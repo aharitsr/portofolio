@@ -21,7 +21,7 @@ export const DATA = {
   description:
     "A highly motivated Information Systems graduate passionate about administrative technology, system management, and quality control.",
   summary:
-    "Combining analytical logic with hands-on professional experience, I am eager to contribute by streamlining workflows, maintaining system integrity, and applying innovative tools to deliver accurate and efficient results.",
+    "Information Systems Graduate specialized in process optimization, quality assurance, and digital workflow management. Experienced in building operational tracking tools and validating enterprise systems to deliver efficient, reliable, and data-driven solutions.",
   avatarUrl: "/me.jpg",
   skills: [
     { name: "Python", icon: Python },
