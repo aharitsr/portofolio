@@ -21,7 +21,7 @@ export const DATA = {
   description:
     "A highly motivated Information Systems graduate passionate about administrative technology, system management, and quality control.",
   summary:
-    "Information Systems Graduate specialized in process optimization, quality assurance, and digital workflow management. Experienced in building operational tracking tools and validating enterprise systems to deliver efficient, reliable, and data-driven solutions.",
+    "In 2024, I graduated in Information Systems and jumped straight into streamlining operations with technology. In the past, I ensured software quality at CIMB Niaga, built digital tracking systems for the District Attorney's Office, and led national academic events for my university. I also published NLP sentiment analysis research in an international journal (INJOIT) and love building practical tools that make daily workflows faster and smarter.",
   avatarUrl: "/me.jpg",
   skills: [
     { name: "Python", icon: Python },
