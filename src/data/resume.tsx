@@ -81,7 +81,7 @@ export const DATA = {
       title: "Case Management & Detainee Escort Specialist",
       logoUrl: "https://kejari-kotatangerang.kejaksaan.go.id/assets/img/logo-kejak.png",
       start: "Mei 2024",
-      end: "Mar 2024",
+      end: "Mar 2025",
       description:
         "Managed end-to-end legal administration and sentence execution for General and Juvenile Crimes, while coordinating detainee logistics across Courts, Correctional Facilities, and Law Enforcement. Built an AppSheet digital tracking system to optimize case monitoring and archiving over 9 months, executed secure physical detainee escorts, and maintained accurate case databases with regular operational reporting for section heads.",
     },
