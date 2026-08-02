@@ -92,8 +92,8 @@ export const DATA = {
       location: "On Site",
       title: "IT Testing Management (Intern)",
       logoUrl: "https://www.cimbniaga.co.id/etc/designs/cimb/clientlib-site/img/cimb-favicon.ico",
-      start: "Feb 2024",
-      end: "Jun 2024",
+      start: "Feb 2023",
+      end: "Jun 2023",
       description:
         "Formulated comprehensive test strategies and designed end-to-end test cases for the Wealth Management System to ensure full functional coverage. Executed manual test scripts across core modules, managed the complete defect lifecycle by logging and verifying bug fixes with developer teams, and generated data-driven test summary reports to provide quality insights and risk assessments for key business stakeholders.",
     },
